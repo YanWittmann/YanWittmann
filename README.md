@@ -8,5 +8,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like sushi! 🍣
 
-[![Yan Wittmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyball2000&theme=tokyonight)](https://github.com/Skyball2000/github-readme-stats)
+[![Yan Wittmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skyball2000&theme=tokyonight)](https://github.com/Skyball2000)
 
