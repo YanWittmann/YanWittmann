@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on a lot of projects. Check out some of my repos below!
-- 🌱 I’m currently learning development in Unity!
-- 💬 Ask me about anything Java/HTML/CSS related
+- 🌱 I'm currently studying CS at the HS Mannheim!
+- 💬 Ask me about anything Java/HTML/JS related
 - 📫 How to reach me: mail@yanwittmann.de
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like sushi! 🍣
