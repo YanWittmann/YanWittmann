@@ -4,7 +4,7 @@
 - 🌱 I'm currently studying CS at the HS Mannheim and working at the [Metaeffekt GmbH](https://www.metaeffekt.de/)
 - 📫 How to reach me: mail@yanwittmann.de
 
-[![Yan Wittmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanWittmann&theme=tokyonight)](http://yanwittmann.de)
+<!--[![Yan Wittmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=YanWittmann&theme=tokyonight)](http://yanwittmann.de)-->
 [![Yan Wittmann's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=YanWittmann&theme=tokyonight)](http://yanwittmann.de)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
