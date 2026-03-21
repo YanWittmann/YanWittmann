@@ -83,6 +83,18 @@ Alumnus of the Technische Hochschule Mannheim.
 <table align="left">
       <tr>
         <td valign="top" width="250px" height="320">
+          <a href="https://yanwittmann.de/projects/ae-cvss-calculator">
+            <img src="https://yanwittmann.de/content/img/thumbs/ae-calculator-preview.webp" alt="Universal CVSS Calculator (TS Library)" width="250px">
+          </a><br>
+          <a href="https://yanwittmann.de/projects/ae-cvss-calculator"><strong>Universal CVSS Calculator (TS Library)</strong></a><br>
+          A TypeScript implementation of CVSS 2.0, 3.0, 3.1 and 4.0 with 1 Million downloads per month, alongside a web application for calculating scores for multiple CVSS vectors simultaneously.<br>
+          <sub>📅 2024-09-23&nbsp;&nbsp;🏷️ </sub>
+        </td>
+      </tr>
+    </table>
+<table align="left">
+      <tr>
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/projects/menter-lang">
             <img src="https://yanwittmann.de/content/img/thumbs/menter-lang-thumb.webp" alt="Menter" width="250px">
           </a><br>
@@ -101,18 +113,6 @@ Alumnus of the Technische Hochschule Mannheim.
           <a href="https://yanwittmann.de/projects/ow-written-nomai-lang"><strong>Written Nomai Language (Outer Wilds)</strong></a><br>
           Transform text into the Nomai language from Outer Wilds.<br>
           <sub>📅 2023-08-02&nbsp;&nbsp;🏷️ Outer Wilds, Linguistics</sub>
-        </td>
-      </tr>
-    </table>
-<table align="left">
-      <tr>
-        <td valign="top" width="250px" height="320">
-          <a href="https://yanwittmann.de/projects/thma-ree-ctf">
-            <img src="https://yanwittmann.de/content/img/thumbs/ree-thma-capy-ctf-thumb.webp" alt="THMA: Capture The Flag" width="250px">
-          </a><br>
-          <a href="https://yanwittmann.de/projects/thma-ree-ctf"><strong>THMA: Capture The Flag</strong></a><br>
-          A Capybara-themed CTF challenge developed for the Reverse Engineering module at the TH Mannheim.<br>
-          <sub>📅 2025-02-01&nbsp;&nbsp;🏷️ Ghidra, THMA, Security, CTF, C, Python</sub>
         </td>
       </tr>
     </table>
