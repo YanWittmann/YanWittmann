@@ -87,7 +87,7 @@ Alumnus of the Technische Hochschule Mannheim.
             <img src="https://yanwittmann.de/content/img/thumbs/ae-calculator-preview.webp" alt="Universal CVSS Calculator (TS Library)" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/projects/ae-cvss-calculator"><strong>Universal CVSS Calculator (TS Library)</strong></a><br>
-          A TypeScript implementation of CVSS 2.0, 3.0, 3.1 and 4.0 with 1 Million downloads per month, alongside a web application for calculating scores for multiple CVSS vectors simultaneously.<br>
+          A TypeScript implementation of CVSS 2.0, 3.0, 3.1 and 4.0 with 1 million downloads per month on NPM, alongside a web interface.<br>
           <sub>📅 2024-09-23&nbsp;&nbsp;🏷️ TypeScript, Cybersecurity, CVSS</sub>
         </td>
       </tr>
