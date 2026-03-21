@@ -58,108 +58,108 @@ Alumnus of the Technische Hochschule Mannheim.
 
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/projects/rw-collection-index">
             <img src="https://yanwittmann.de/content/img/thumbs/rw-collection-index-card.webp" alt="Collection Index (Rain World)" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/projects/rw-collection-index"><strong>Collection Index (Rain World)</strong></a><br>
-          <sub>All Pearls and Broadcasts from Rain World viewable and searchable in a simple user interface.</sub><br>
+          All Pearls and Broadcasts from Rain World viewable and searchable in a simple user interface.<br>
           <sub>📅 2025-03-06&nbsp;&nbsp;🏷️ Rain World, Game, Web</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/projects/how-to-bg3-minifigure">
             <img src="https://yanwittmann.de/content/img/thumbs/bg3-print-ramie-card.webp" alt="3D Print your own BG3 Tav" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/projects/how-to-bg3-minifigure"><strong>3D Print your own BG3 Tav</strong></a><br>
-          <sub>Guide for extracting custom characters from Baldur's Gate 3 and preparing them for 3D printing.</sub><br>
+          Guide for extracting custom characters from Baldur's Gate 3 and preparing them for 3D printing.<br>
           <sub>📅 2026-01-18&nbsp;&nbsp;🏷️ Baldur's Gate 3, 3D Printing, Guide</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/projects/menter-lang">
             <img src="https://yanwittmann.de/content/img/thumbs/menter-lang-thumb.webp" alt="Menter" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/projects/menter-lang"><strong>Menter</strong></a><br>
-          <sub>A functional programming language written in Java.</sub><br>
+          A functional programming language written in Java.<br>
           <sub>📅 2023-08-22&nbsp;&nbsp;🏷️ Menter, Java, Compiler</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/projects/ow-written-nomai-lang">
             <img src="https://yanwittmann.de/content/img/thumbs/written-nomai-lang-thumb.webp" alt="Written Nomai Language (Outer Wilds)" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/projects/ow-written-nomai-lang"><strong>Written Nomai Language (Outer Wilds)</strong></a><br>
-          <sub>Transform text into the Nomai language from Outer Wilds.</sub><br>
+          Transform text into the Nomai language from Outer Wilds.<br>
           <sub>📅 2023-08-02&nbsp;&nbsp;🏷️ Outer Wilds, Linguistics</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/projects/thma-ree-ctf">
             <img src="https://yanwittmann.de/content/img/thumbs/ree-thma-capy-ctf-thumb.webp" alt="THMA: Capture The Flag" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/projects/thma-ree-ctf"><strong>THMA: Capture The Flag</strong></a><br>
-          <sub>A Capybara-themed CTF challenge developed for the Reverse Engineering module at the TH Mannheim.</sub><br>
+          A Capybara-themed CTF challenge developed for the Reverse Engineering module at the TH Mannheim.<br>
           <sub>📅 2025-02-01&nbsp;&nbsp;🏷️ Ghidra, THMA, Security, CTF, C, Python</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/projects/thma-bachelorarbeit">
             <img src="https://yanwittmann.de/content/img/thumbs/thma-bachelorarbeit-thumb.webp" alt="THMA: Bachelors Thesis" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/projects/thma-bachelorarbeit"><strong>THMA: Bachelors Thesis</strong></a><br>
-          <sub>The Cyber Resilience Act raises the stakes for cybersecurity. Moving towards a more accurate and scalable automation is inevitable.</sub><br>
+          The Cyber Resilience Act raises the stakes for cybersecurity. Moving towards a more accurate and scalable automation is inevitable.<br>
           <sub>📅 2025-07-21&nbsp;&nbsp;🏷️ Thesis, Bachelor, THMA, Cyber Security</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/blog/playing-silksong">
             <img src="https://yanwittmann.de/content/img/thumbs/playing-silksong.webp" alt="Learning to love Hollow Knight: Silksong" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/blog/playing-silksong"><strong>Learning to love Hollow Knight: Silksong</strong></a><br>
-          <sub>A game seven years in the making, now in our hands. My experience of finally playing Silksong.</sub><br>
+          A game seven years in the making, now in our hands. My experience of finally playing Silksong.<br>
           <sub>📅 2026-03-04&nbsp;&nbsp;🏷️ Silksong, Playthrough, Game</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/blog/bg3-ramie">
             <img src="https://yanwittmann.de/content/img/thumbs/bg3-getting-to-know-ramie-alt.webp" alt="Get to know my BG3 Tav Ramie" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/blog/bg3-ramie"><strong>Get to know my BG3 Tav Ramie</strong></a><br>
-          <sub>A retelling of my 200-hour playthrough of Baldur's Gate 3, playing as a Tiefling Druid named Ramie.</sub><br>
+          A retelling of my 200-hour playthrough of Baldur's Gate 3, playing as a Tiefling Druid named Ramie.<br>
           <sub>📅 2026-01-18&nbsp;&nbsp;🏷️ Baldur's Gate 3, Playthrough, Game</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
-        <td valign="top" width="240px" height="320">
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/blog/optimal-mk-world-route">
             <img src="https://yanwittmann.de/content/img/thumbs/optimal-mk-world-route.webp" alt="Finding the optimal MK World Route" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/blog/optimal-mk-world-route"><strong>Finding the optimal MK World Route</strong></a><br>
-          <sub>Not all intermissions are created equally: Applying the Traveling Salesman problem to MK World to find the best route through all tracks.</sub><br>
+          Not all intermissions are created equally: Applying the Traveling Salesman problem to MK World to find the best route through all tracks.<br>
           <sub>📅 2025-11-26&nbsp;&nbsp;🏷️ MK World, TSP, Game</sub>
         </td>
       </tr>
