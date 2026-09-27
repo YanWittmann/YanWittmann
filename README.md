@@ -99,7 +99,7 @@ Alumnus of the Technische Hochschule Mannheim.
             <img src="https://yanwittmann.de/content/img/thumbs/time-bomb-miner-thumb.png" alt="Time Bomb Miner" width="250px">
           </a><br>
           <a href="https://yanwittmann.de/projects/time-bomb-miner"><strong>Time Bomb Miner</strong></a><br>
-          A round-based mining roguelike where you're the bomb. Top 2% of GMTK Game Jam 2026 (#222 of 10,500).<br>
+          A round-based mining roguelike where you're the bomb.<br>
           <sub>📅 2026-07-27&nbsp;&nbsp;🏷️ GMTK Game Jam, Godot, Game</sub>
         </td>
       </tr>
