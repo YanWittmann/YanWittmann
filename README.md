@@ -54,7 +54,7 @@ Alumnus of the Technische Hochschule Mannheim.
   </tbody>
 </table>
 
-## Latest Projects & Posts&nbsp;&nbsp;&nbsp;&nbsp;[View All (28) ➔](https://yanwittmann.de/projects)
+## Latest Projects & Posts&nbsp;&nbsp;&nbsp;&nbsp;[View All (30) ➔](https://yanwittmann.de/projects)
 
 <table align="left">
       <tr>
@@ -131,6 +131,18 @@ Alumnus of the Technische Hochschule Mannheim.
 <table align="left">
       <tr>
         <td valign="top" width="250px" height="320">
+          <a href="https://yanwittmann.de/blog/balatro">
+            <img src="https://yanwittmann.de/content/img/thumbs/balatro.webp" alt="Balatro Screenshots & Clips" width="250px">
+          </a><br>
+          <a href="https://yanwittmann.de/blog/balatro"><strong>Balatro Screenshots & Clips</strong></a><br>
+          A collection of screenshots and clips from my time playing Balatro.<br>
+          <sub>📅 2026-09-26&nbsp;&nbsp;🏷️ Balatro, Playthrough, Game</sub>
+        </td>
+      </tr>
+    </table>
+<table align="left">
+      <tr>
+        <td valign="top" width="250px" height="320">
           <a href="https://yanwittmann.de/blog/playing-silksong">
             <img src="https://yanwittmann.de/content/img/thumbs/playing-silksong.webp" alt="Learning to love Hollow Knight: Silksong" width="250px">
           </a><br>
@@ -152,21 +164,9 @@ Alumnus of the Technische Hochschule Mannheim.
         </td>
       </tr>
     </table>
-<table align="left">
-      <tr>
-        <td valign="top" width="250px" height="320">
-          <a href="https://yanwittmann.de/blog/optimal-mk-world-route">
-            <img src="https://yanwittmann.de/content/img/thumbs/optimal-mk-world-route.webp" alt="Finding the optimal MK World Route" width="250px">
-          </a><br>
-          <a href="https://yanwittmann.de/blog/optimal-mk-world-route"><strong>Finding the optimal MK World Route</strong></a><br>
-          Not all intermissions are created equally: Applying the Traveling Salesman problem to MK World to find the best route through all tracks.<br>
-          <sub>📅 2025-11-26&nbsp;&nbsp;🏷️ MK World, TSP, Game</sub>
-        </td>
-      </tr>
-    </table>
 <br clear="all">
 
-> **[Curious for more? Explore all 28 projects here ➔](https://yanwittmann.de/projects)**
+> **[Curious for more? Explore all 30 projects here ➔](https://yanwittmann.de/projects)**
 
 ## GitHub Stats
 
