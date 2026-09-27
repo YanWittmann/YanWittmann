@@ -21,6 +21,7 @@ Alumnus of the Technische Hochschule Mannheim.
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img alt="SQL" src="https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -44,7 +45,6 @@ Alumnus of the Technische Hochschule Mannheim.
     <tr>
       <td align="center" width="20%"><b>Tools</b></td>
       <td>
-        <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img alt="Maven" src="https://img.shields.io/badge/maven-cd2339?style=for-the-badge&logo=maven&logoColor=white"/>
         <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
         <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
@@ -95,36 +95,36 @@ Alumnus of the Technische Hochschule Mannheim.
 <table align="left">
       <tr>
         <td valign="top" width="250px" height="320">
-          <a href="https://yanwittmann.de/projects/menter-lang">
-            <img src="https://yanwittmann.de/content/img/thumbs/menter-lang-thumb.webp" alt="Menter" width="250px">
+          <a href="https://yanwittmann.de/projects/time-bomb-miner">
+            <img src="https://yanwittmann.de/content/img/thumbs/time-bomb-miner-thumb.png" alt="Time Bomb Miner" width="250px">
           </a><br>
-          <a href="https://yanwittmann.de/projects/menter-lang"><strong>Menter</strong></a><br>
-          A functional programming language written in Java.<br>
-          <sub>📅 2023-08-22&nbsp;&nbsp;🏷️ Menter, Java, Compiler</sub>
+          <a href="https://yanwittmann.de/projects/time-bomb-miner"><strong>Time Bomb Miner</strong></a><br>
+          A round-based mining roguelike where you're the bomb. Top 2% of GMTK Game Jam 2026 (#222 of 10,500).<br>
+          <sub>📅 2026-07-27&nbsp;&nbsp;🏷️ GMTK Game Jam, Godot, Game</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
         <td valign="top" width="250px" height="320">
-          <a href="https://yanwittmann.de/projects/ow-written-nomai-lang">
-            <img src="https://yanwittmann.de/content/img/thumbs/written-nomai-lang-thumb.webp" alt="Written Nomai Language (Outer Wilds)" width="250px">
+          <a href="https://yanwittmann.de/projects/wawa-uno">
+            <img src="https://yanwittmann.de/content/img/thumbs/wawa-uno-thumb.webp" alt="WAWA: Rain World UNO" width="250px">
           </a><br>
-          <a href="https://yanwittmann.de/projects/ow-written-nomai-lang"><strong>Written Nomai Language (Outer Wilds)</strong></a><br>
-          Transform text into the Nomai language from Outer Wilds.<br>
-          <sub>📅 2023-08-02&nbsp;&nbsp;🏷️ Outer Wilds, Linguistics</sub>
+          <a href="https://yanwittmann.de/projects/wawa-uno"><strong>WAWA: Rain World UNO</strong></a><br>
+          A custom UNO deck inspired by Rain World with new symbols and a unique box.<br>
+          <sub>📅 2026-03-19&nbsp;&nbsp;🏷️ Rain World, Python, Game</sub>
         </td>
       </tr>
     </table>
 <table align="left">
       <tr>
         <td valign="top" width="250px" height="320">
-          <a href="https://yanwittmann.de/projects/thma-bachelorarbeit">
-            <img src="https://yanwittmann.de/content/img/thumbs/thma-bachelorarbeit-thumb.webp" alt="THMA: Bachelors Thesis" width="250px">
+          <a href="https://yanwittmann.de/projects/latent-atlas">
+            <img src="https://yanwittmann.de/content/img/thumbs/latent-atlas-card.webp" alt="Latent Atlas" width="250px">
           </a><br>
-          <a href="https://yanwittmann.de/projects/thma-bachelorarbeit"><strong>THMA: Bachelors Thesis</strong></a><br>
-          The Cyber Resilience Act raises the stakes for cybersecurity. Moving towards a more accurate and scalable automation is inevitable.<br>
-          <sub>📅 2025-07-21&nbsp;&nbsp;🏷️ Thesis, Bachelor, THMA, Cyber Security</sub>
+          <a href="https://yanwittmann.de/projects/latent-atlas"><strong>Latent Atlas</strong></a><br>
+          Visualize large image collections as a 2D similarity map.<br>
+          <sub>📅 2026-01-11&nbsp;&nbsp;🏷️ AI, Computer Vision, Python</sub>
         </td>
       </tr>
     </table>
